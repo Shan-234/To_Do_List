@@ -30,9 +30,9 @@ Test updating a task that doesn't exist in the list. (Pending)**
 
 # Error handling:
 **Test inputting invalid commands or options and ensure proper error messages are displayed. (Pending)
-Test handling invalid input for task attributes (e.g., entering a non-integer priority, an invalid date format). (Discard)
+Test handling invalid input for task attributes (e.g., entering a non-integer priority, an invalid date format). (Discard)**
 
 # Persistence: (DISCARD)
 **Test closing and reopening the program to ensure the tasks are persisted correctly.
 Test saving and loading tasks from a file to ensure data integrity.
-These test cases cover various scenarios that your to-do list program should handle. You can expand on them or customize them further based on your specific requirements and functionalities.
+These test cases cover various scenarios that your to-do list program should handle. You can expand on them or customize them further based on your specific requirements and functionalities.**
